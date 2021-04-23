@@ -12,6 +12,7 @@
     <name>
 
 # TECHNOLOGY COLOPHON
+adding some line for untraced stashing example
 
     HTML5, CSS3
     jQuery, Modernizr
