@@ -11,4 +11,4 @@ Adding description
 
 ##End
 
-Addong end description
+Adding example for stashing
